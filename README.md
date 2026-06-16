@@ -19,17 +19,11 @@ This project is a 3-page interactive Power BI dashboard focused on workforce pro
 
 ## Dashboard Preview
 
-### Executive Overview
 ![Dashboard Overview](dashboard-overview.png)
 
-### Stress Analysis
 ![Stress Analysis](stress-analysis.png)
 
-### Burnout Insights
 ![Burnout Insights](burnout-insights.png)
-
-## Screenshots
-(Add your dashboard screenshots here)
 
 ## Author
 Yugasini B
