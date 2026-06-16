@@ -17,15 +17,16 @@ This project is a 3-page interactive Power BI dashboard focused on workforce pro
 - Burnout Risk Analysis
 - Productivity Monitoring
 
-## Dashboard Pages
-### Page 1 — Executive Overview
-Tracks overall workforce productivity and burnout insights.
+## Dashboard Preview
 
-### Page 2 — Employee Stress Analysis
-Analyzes department-wise stress distribution and overtime patterns.
+### Executive Overview
+![Dashboard Overview](dashboard-overview.png)
 
-### Page 3 — Productivity & Risk Insights
-Focuses on workforce efficiency and high burnout risk employees.
+### Stress Analysis
+![Stress Analysis](stress-analysis.png)
+
+### Burnout Insights
+![Burnout Insights](burnout-insights.png)
 
 ## Screenshots
 (Add your dashboard screenshots here)
